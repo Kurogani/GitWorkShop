@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventarioTiWS", "InventarioTiWS\InventarioTiWS.csproj", "{3CE92312-AC41-4AE1-9767-5F6925CEDB91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CE92312-AC41-4AE1-9767-5F6925CEDB91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CE92312-AC41-4AE1-9767-5F6925CEDB91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CE92312-AC41-4AE1-9767-5F6925CEDB91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CE92312-AC41-4AE1-9767-5F6925CEDB91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D88E2A1-803A-4E99-8177-84EDDE2CEE6C}
+	EndGlobalSection
+EndGlobal
